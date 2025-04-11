@@ -15,7 +15,6 @@ I approach each project with enthusiasm and commitment, aiming not only for effi
 ## Contact:
 
 - Email: mauricioklainbard01@gmail.com
-- WhatsApp: +542615266106
 - Linkedin: https://www.linkedin.com/in/mklainbard/
 
 Feel free to reach out! I'm available for collaboration opportunities and enriching conversations.
@@ -41,7 +40,6 @@ Enfrento cada proyecto con entusiasmo y compromiso, buscando no solo soluciones 
 ## Contacto:
 
 - Email: mauricioklainbard01@gmail.com
-- WhatsApp: +542615266106
 - Linkedin: https://www.linkedin.com/in/mklainbard/
 
 ¡No dudes en contactarme! Estoy disponible para oportunidades de colaboración y conversaciones enriquecedoras.
