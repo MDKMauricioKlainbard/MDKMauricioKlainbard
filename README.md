@@ -69,7 +69,7 @@ My focus is on building efficient and scalable software solutions that address i
 </a>
 </p>
 <p><strong>Tech:</strong> Next.js, TypeScript</p>
-<p>Personal platform for documenting theorem proofs, mathematical developments, and independent research, showcasing my commitment to intellectual rigor and logical abstraction..</p>
+<p>Personal platform for documenting theorem proofs, mathematical developments, and independent research, showcasing my commitment to intellectual rigor and logical abstraction.</p>
 </div>
 </td>
 </tr>
