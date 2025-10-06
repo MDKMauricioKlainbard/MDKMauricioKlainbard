@@ -21,32 +21,6 @@ Feel free to reach out! I'm available for collaboration opportunities and enrich
 
 ### Thank you for visiting my profile! 🎉
 
----
-
-# ¡Hola a todos! 😃
-
-## ¿Quién soy? 🧐
-
-Mi nombre es Mauricio Daniel Klainbard, soy de Argentina, Mendoza, y tengo 21 años. Soy un estudiante de programación e ingeniería apasionado por la lógica y el manejo de datos, dos áreas que me han guiado hacia lo que soy hoy en día.
-
-En la actualidad, estoy explorando nuevas tecnologías, librerías y frameworks, aunque ya cuento con sólidos conocimientos en React, Express, JavaScript, Node, entre otros.
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-Una de mis especialidades es el trabajo en equipo. Me considero un excelente compañero de grupo, capaz de fomentar la camaradería y el optimismo ante cada desafío que se presenta a nuestro equipo. Creo firmemente que cada problema tiene su solución; solo es cuestión de reflexionar con calma.
-
-Enfrento cada proyecto con entusiasmo y compromiso, buscando no solo soluciones eficientes sino también construir un ambiente colaborativo y positivo. Estoy emocionado por seguir aprendiendo y contribuir al mundo del desarrollo de software. 
-
-## Contacto:
-
-- Email: mauricioklainbard01@gmail.com
-- Linkedin: https://www.linkedin.com/in/mklainbard/
-
-¡No dudes en contactarme! Estoy disponible para oportunidades de colaboración y conversaciones enriquecedoras.
-
-### ¡Gracias por visitar mi perfil! 🎉
-
-
 
 <!--
 **MDKMauricioKlainbard/MDKMauricioKlainbard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
